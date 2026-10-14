@@ -1,7 +1,11 @@
 <h1 align="center">Hey there, I'm Omar Elhendawy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C2D91&center=true&vCenter=true&width=550&lines=.NET+Back-End+Developer+in+the+making;Computer+Science+Student+%40+Mansoura+University;Clean+Code+%7C+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=.NET+Back-End+Developer+in+the+making;Computer+Science+Student+%40+Mansoura+University;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Clean+Code+%26+Clean+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elhendawy-1&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -16,6 +20,8 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -39,6 +45,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Project Name](https://github.com/Elhendawy-1/repo-name) | One-line description of what it does | `C#` `ASP.NET Core` `SQL Server` |
+| [Project Name](https://github.com/Elhendawy-1/repo-name) | One-line description of what it does | `C#` `Clean Architecture` |
 
 ---
 
@@ -75,5 +92,5 @@
   <a href="https://github.com/Elhendawy-1">
     <img src="https://img.shields.io/badge/GitHub-Elhendawy--1-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ضيف لينكات LinkedIn / Email هنا -->
+  <!-- LinkedIn / Email: ضيفهم هنا بنفس الشكل -->
 </p>
