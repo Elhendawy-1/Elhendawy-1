@@ -1,14 +1,16 @@
 <h1 align="center">Omar Elhendawy</h1>
 
 <p align="center">
-  <b>Back-End Developer | .NET | Clean Architecture</b><br/>
+  <b>Back-End Developer · .NET · Clean Architecture</b><br/>
   Computer Science Student at Mansoura University
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <p align="center">
@@ -28,21 +30,61 @@ I'm a Computer Science student at **Mansoura University** focused on back-end de
 
 My goal is to grow into a skilled **.NET Back-End Engineer**.
 
-## Focus Areas
+## Skills
 
-- **Back-End Development** with C# and ASP.NET Core
-- **Database Design & Querying** with SQL Server
-- **Clean Architecture** and separation of concerns
-- **Software Design Patterns** and clean code practices
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Tech Stack
+- **C#**: OOP, Asynchronous Programming, Multithreading, Generics, Reflection, Delegates & Events, Collections, Streams
+- **LINQ**
 
-| Category | Technologies |
-|:---------|:-------------|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Framework** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+### Back-End Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+- **ASP.NET Core Web API**: Controllers & Minimal APIs
+- **REST API**: principles and foundations
+- **Security**: JWT, Authentication & Authorization, ASP.NET Core Identity, CORS, Data Protection
+- **API Documentation**: OpenAPI, Swagger UI, Scalar
+- **Performance**: Caching, Rate Limiting, Response Compression
+
+### Databases & ORM
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- **Database Design**: Relational Schema, Normalization
+- **SQL & T-SQL**
+- **ORM**: EF Core, Dapper (fundamentals)
+
+### Architecture & Design
+- **Clean Architecture**, **CQRS**, **Result Pattern**
+- **SOLID Principles**
+- **Design Patterns**: Factory, Strategy, Builder, Singleton, Adapter, Unit of Work, Repository, Specification
+- **Business Analysis & Domain Modeling**
+
+### DevOps & Tooling
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- **Docker**: Dockerfile, Docker Compose
+- **CI** with GitHub Actions
+- **Observability**: Logging & Monitoring
+- **Communication Protocols**
+
+### Quality
+- **Unit & Integration Testing**
+
+## Hands-on Experience
+
+- Built a full real-world project: **Mechanic Shop**, a full-stack workshop management system applying Clean Architecture, CQRS, and the Result Pattern.
 
 ## Engineering Principles
 
