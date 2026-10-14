@@ -1,7 +1,7 @@
 <h1 align="center">Omar Elhendawy</h1>
 
 <p align="center">
-  <b>Back-End Developer · .NET · Clean Architecture</b><br/>
+  <b>Back-End Developer | .NET | Clean Architecture</b><br/>
   Computer Science Student at Mansoura University
 </p>
 
