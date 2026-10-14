@@ -14,38 +14,34 @@ Hey, I'm Omar Elhendawy, a Computer Science student at Mansoura University passi
 
 
 
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img
   src="https://github-readme-stats.shion.dev/api?username=Elhendawy-1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"
-  alt="GitHub Statistics"
-  width="100%"
+  alt="GitHub Stats"
+  width="70%"
 />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img
-  src="https://streak-stats.demolab.com/?user=Elhendawy-1&theme=tokyonight&hide_border=true&card_width=1000"
-  alt="GitHub Contribution Streak"
-  width="100%"
+  src="https://streak-stats.demolab.com/?user=Elhendawy-1&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+  width="85%"
 />
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Elhendawy-1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-  alt="Most Used Languages"
-  width="100%"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Elhendawy-1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"
+  alt="Top Languages"
+  width="70%"
 />
 
 </div>
-
-
 
 
 
